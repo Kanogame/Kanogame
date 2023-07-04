@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Node.js discord music bot
+I'm currently learning c++
 
 My website:
 https://kanogame.github.io/portfolio-new/
