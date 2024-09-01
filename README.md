@@ -1,13 +1,11 @@
-# 💫 About Me:
-I'm currently learning c and linux kernel apis
+# About Me:
+I'm currently learning c and libc
 
-My website:
-https://kanogame.github.io/portfolio-new/
+Check out secrep: https://secrep.ru
 
-# 💻 Tech Stack:
-I dont think anyone really need this section
+I use Arch & Nixos btw
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kanogame&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanogame&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
